@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC01\\Desktop\\Practicas IS\\p6\\Practica_06_IS_Cliente02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40EEF41F-F606-464B-8A15-CF89546082D4}|Practica_06_IS_Cliente02\\Practica_06_IS_Cliente02.csproj|c:\\users\\pc01\\desktop\\practicas is\\p6\\practica_06_is_cliente02\\practica_06_is_cliente02\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40EEF41F-F606-464B-8A15-CF89546082D4}|Practica_06_IS_Cliente02\\Practica_06_IS_Cliente02.csproj|solutionrelative:practica_06_is_cliente02\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40EEF41F-F606-464B-8A15-CF89546082D4}|Practica_06_IS_Cliente02\\Practica_06_IS_Cliente02.csproj|c:\\users\\pc01\\desktop\\practicas is\\p6\\practica_06_is_cliente02\\practica_06_is_cliente02\\views\\productos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40EEF41F-F606-464B-8A15-CF89546082D4}|Practica_06_IS_Cliente02\\Practica_06_IS_Cliente02.csproj|solutionrelative:practica_06_is_cliente02\\views\\productos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40EEF41F-F606-464B-8A15-CF89546082D4}|Practica_06_IS_Cliente02\\Practica_06_IS_Cliente02.csproj|c:\\users\\pc01\\desktop\\practicas is\\p6\\practica_06_is_cliente02\\practica_06_is_cliente02\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40EEF41F-F606-464B-8A15-CF89546082D4}|Practica_06_IS_Cliente02\\Practica_06_IS_Cliente02.csproj|solutionrelative:practica_06_is_cliente02\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40EEF41F-F606-464B-8A15-CF89546082D4}|Practica_06_IS_Cliente02\\Practica_06_IS_Cliente02.csproj|C:\\Users\\PC01\\Desktop\\Practicas IS\\p6\\Practica_06_IS_Cliente02\\practica_06_is_cliente02\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40EEF41F-F606-464B-8A15-CF89546082D4}|Practica_06_IS_Cliente02\\Practica_06_IS_Cliente02.csproj|solutionrelative:practica_06_is_cliente02\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC01\\Desktop\\Practicas IS\\p6\\Practica_06_IS_Cliente02\\Practica_06_IS_Cliente02\\Views\\Productos\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Practica_06_IS_Cliente02\\Views\\Productos\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\PC01\\Desktop\\Practicas IS\\p6\\Practica_06_IS_Cliente02\\Practica_06_IS_Cliente02\\Views\\Productos\\Delete.cshtml",
+              "RelativeToolTip": "Practica_06_IS_Cliente02\\Views\\Productos\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T03:59:29.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC01\\Desktop\\Practicas IS\\p6\\Practica_06_IS_Cliente02\\Practica_06_IS_Cliente02\\Views\\Productos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Practica_06_IS_Cliente02\\Views\\Productos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC01\\Desktop\\Practicas IS\\p6\\Practica_06_IS_Cliente02\\Practica_06_IS_Cliente02\\Views\\Productos\\Index.cshtml",
+              "RelativeToolTip": "Practica_06_IS_Cliente02\\Views\\Productos\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T03:54:40.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\PC01\\Desktop\\Practicas IS\\p6\\Practica_06_IS_Cliente02\\Practica_06_IS_Cliente02\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "Practica_06_IS_Cliente02\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\PC01\\Desktop\\Practicas IS\\p6\\Practica_06_IS_Cliente02\\Practica_06_IS_Cliente02\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "Practica_06_IS_Cliente02\\Controllers\\ProductosController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBIAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T03:23:03.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\PC01\\Desktop\\Practicas IS\\p6\\Practica_06_IS_Cliente02\\Practica_06_IS_Cliente02\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "Practica_06_IS_Cliente02\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\PC01\\Desktop\\Practicas IS\\p6\\Practica_06_IS_Cliente02\\Practica_06_IS_Cliente02\\Models\\Producto.cs",
+              "RelativeToolTip": "Practica_06_IS_Cliente02\\Models\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T02:46:47.218Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
